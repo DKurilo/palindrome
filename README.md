@@ -19,6 +19,12 @@ echo "<filename>" | stack exec palindrome-words
 
 ## Examples
 
+#### Sentence
+SATOR AREPO TENET OPERA ROTAS  
+
+#### Paragraph
+Is it crazy how saying sentences backwards creates backwards sentences saying how crazy it is?  
+
 ### Ulysses : James Joyce
 #### Sentences
 
