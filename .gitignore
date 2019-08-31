@@ -1,3 +1,6 @@
 .stack-work/
 palindrome.cabal
 *~
+*.swp
+*.lock
+.*

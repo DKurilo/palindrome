@@ -21,14 +21,25 @@ description:         Please see the README on GitHub at <https://github.com/gith
 
 dependencies:
 - base >= 4.7 && < 5
+- vector >= 0.12 && < 0.13
 
 library:
   source-dirs: src
 
 executables:
-  palindrome-exe:
+  palindrome-chars:
     main:                Main.hs
-    source-dirs:         app
+    source-dirs:         chars
+    ghc-options:
+    - -threaded
+    - -rtsopts
+    - -with-rtsopts=-N
+    dependencies:
+    - palindrome
+
+  palindrome-words:
+    main:                Main.hs
+    source-dirs:         words
     ghc-options:
     - -threaded
     - -rtsopts
