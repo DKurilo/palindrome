@@ -83,4 +83,4 @@ echo "test-wiki-palindrome-russian.txt" | stack exec palindrome-words
 
 Surely you can have fun with other language.
 
-* Have fun!
+**Have fun!**
