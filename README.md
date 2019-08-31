@@ -1,6 +1,6 @@
 # Palindrome
 
-This is small tool that allow to find all palindromes in text or in any other document if you will use library.  
+This is small tool that allows to find all palindromes in text or in any other document if you will use library.  
 I already added apps that allow to find palindromes like "Was it a car or a cat I saw?" (palindrome-chars) and palindromes like "Is it crazy how saying sentences backwards creates backwards sentences saying how crazy it is?" (palindrome-words).  
 
 ## Installation
@@ -22,19 +22,19 @@ echo "<filename>" | stack exec palindrome-words
 ### Ulysses : James Joyce
 #### Sentences
 
-Able was I ere I saw Elba
-tattarrattat
-Madam, I’m Adam
-Wow wow wow
-Hah, hah, hah
+Able was I ere I saw Elba  
+tattarrattat  
+Madam, I’m Adam  
+Wow wow wow  
+Hah, hah, hah  
 
 #### Paragraphs
 
-Hoopsa boyaboy hoopsa! Hoopsa boyaboy hoopsa! Hoopsa boyaboy hoopsa
-Tap. Tap. Tap. Tap. Tap. Tap. Tap. Tap
-Ute ute ute ute ute ute ute ute
-The ree the ra the ree the
-the ra the ree the ra the
+Hoopsa boyaboy hoopsa! Hoopsa boyaboy hoopsa! Hoopsa boyaboy hoopsa  
+Tap. Tap. Tap. Tap. Tap. Tap. Tap. Tap  
+Ute ute ute ute ute ute ute ute  
+The ree the ra the ree the  
+the ra the ree the ra the  
 ```
 is coming.
 
@@ -44,24 +44,24 @@ Is coming! Is coming!! Is
 ### War and Peace : Tolstoy (in Russian)
 #### Sentences
 
-ого-го-го-го-го
-еще, и еще, и еще
-Ооооо!  о!  ооооо
+ого-го-го-го-го  
+еще, и еще, и еще  
+Ооооо!  о!  ооооо  
 ```
 казак?
            -- Казак
 ```
-Non, non,  non
-иди,  иди,  иди
-Это сотэ
-Но еще он
-ого-го-го
-умел  ему
+Non, non,  non  
+иди,  иди,  иди  
+Это сотэ  
+Но еще он  
+ого-го-го  
+умел  ему  
 
 #### Paragraphs
 
-пити-пити-пити  и  ти-ти   -  и  пити-пити-пити
-быстрее и слышнее, слышнее и быстрее
+пити-пити-пити  и  ти-ти   -  и  пити-пити-пити  
+быстрее и слышнее, слышнее и быстрее  
 ```
 Электричество производит  тепло,  тепло  производит
       электричество
